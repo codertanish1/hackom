@@ -1,0 +1,23 @@
+#nav{
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 50px;
+    position: sticky;
+}
+body{
+    background-color: black;
+}
+
+#part1{
+    display: flex;
+    gap: 50px;
+}
+img{
+    width: 800px;
+    height: 800px;
+}
+#nav h4{
+    color: aliceblue;
+}
